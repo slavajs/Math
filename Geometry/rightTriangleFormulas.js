@@ -10,8 +10,3 @@ export function findHypotenuse(a, b) {
   let hypotenuse = Math.sqrt(a * a + b * b);
   return hypotenuse;
 }
-
-//square
-
-
-
