@@ -13,6 +13,6 @@ export function solveQuEq(a, b, c) {
   }
 
   if (d < 0) {
-    return "NaN";
+    return NaN;
   }
 }
